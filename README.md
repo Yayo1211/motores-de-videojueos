@@ -1,1 +1,1 @@
-# Xólotl core
+# Xólotl-core
